@@ -9,7 +9,7 @@ addons:
   sonarcloud:
     organization: "likithjoel-github"
     token:
-      secure: "822192a8557b556547e4f15e138dff363dc3304f"
+      secure: "1beb1875ba73d127b45082bf0359ee407bee220b"
   sauce_connect:
     username: "likithjoel"
     access_key: "15bcd862-615a-4775-ba98-feeab15399cc"
